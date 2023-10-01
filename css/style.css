@@ -25,7 +25,7 @@ nav{
     float: right;
     width: 65%;
     height: 460px;
-    background-color: lightgray;
+    background-color: lightblue;
     padding: 20px;
 }
 #profile{
@@ -33,6 +33,10 @@ nav{
     /*background-color: darkorange;*/
     text-align: center;
     padding: 20px;
+}
+
+#profile img {
+    border-radius: 50%;    
 }
 #stats{
     height: 54%;
@@ -57,8 +61,6 @@ nav{
 
 #petPhoto{ 
     display: inline-block;
-   
-
 }
 
 
